@@ -1,0 +1,6 @@
+framework module PBPopupController {
+  umbrella header "PBPopupController-umbrella.h"
+
+  export *
+  module * { export * }
+}

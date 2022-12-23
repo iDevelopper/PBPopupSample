@@ -1,0 +1,6 @@
+framework module Pods_PBPopupSample {
+  umbrella header "Pods-PBPopupSample-umbrella.h"
+
+  export *
+  module * { export * }
+}
