@@ -8,5 +8,6 @@ target 'PBPopupSample' do
   # Pods for PBPopupSample
 
     pod 'PBPopupController'
+    pod 'SnapKit'
 
 end
